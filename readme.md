@@ -64,8 +64,23 @@
 <br>
 <br>
 
+## About This Standalone Edition
+
+- **Main repository:** [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- **Based on version:** upstream commit `bc98e517ddca672f55f9857d714fc3ea3c3540b2` (snapshotted 2026-10-20; upstream HEAD dated 2026-09-02)
+- **This edition:** v1.1.0 (v1.0.0 = clean baseline of the upstream version above)
+- **What was done:** Converted from a fork into a standalone repository (fresh history, baseline commit), then enhanced in place by Syed Mujtaba Abbas.
+- **Enhancements in this edition (v1.1.0):**
+  - This About section, with full upstream credit and version provenance
+  - `ENHANCEMENTS.md` — per-version changelog of everything changed in this edition
+  - `.github/dependabot.yml` — weekly GitHub Actions dependency updates
+  - `.markdownlint.json` + `.github/workflows/markdown-check.yml` — markdown linting automation for contributions
+  - Repository About description and homepage set to the upstream project, with the enhancements and versions stated there too
+- **Credit & licence:** All original work belongs to Sindre Sorhus and the upstream contributors. Licence is preserved unchanged — see `license` (CC0-1.0). This edition adds the enhancements listed above only.
+
 ## Contents
 
+- [About This Standalone Edition](#about-this-standalone-edition)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
