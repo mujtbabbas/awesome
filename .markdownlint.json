@@ -3,31 +3,5 @@
   "MD013": false,
   "MD033": false,
   "MD041": false,
-  "MD024": {
-    "siblings_only": true
-  },
-  "overrides": [
-    {
-      "files": [
-        "**/*.md"
-      ],
-      "config": {
-        "default": false
-      }
-    },
-    {
-      "files": [
-        "ENHANCEMENTS.md"
-      ],
-      "config": {
-        "default": true,
-        "MD013": false,
-        "MD033": false,
-        "MD041": false,
-        "MD024": {
-          "siblings_only": true
-        }
-      }
-    }
-  ]
+  "MD024": { "siblings_only": true }
 }
