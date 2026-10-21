@@ -1,0 +1,9 @@
+ignores:
+  - "*/**/*.md"
+  - ".github/**/*.md"
+  - "awesome.md"
+  - "code-of-conduct.md"
+  - "contributing.md"
+  - "create-list.md"
+  - "pull_request_template.md"
+  - "readme.md"
